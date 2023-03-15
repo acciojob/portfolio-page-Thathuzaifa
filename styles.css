@@ -1,2 +1,15 @@
-
-/* Your CSS Code here. */
+ h1{
+            color: brown;
+            text-align: center; 
+            border-style: dashed;
+            background-color: cyan;
+        }
+        .center{
+            display:contents;
+            margin-left: 50%;
+            margin-right: 50%;
+            width: 50%;
+        }
+        body{
+            background-color: blanchedalmond;
+        }
